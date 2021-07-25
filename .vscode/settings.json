@@ -2,11 +2,9 @@
   "git.ignoreLimitWarning": true,
   "files.exclude": {
     "package-lock.json": true,
-    "package.json": true,
     "README.md": true,
     ".vscode": true,
     "src\\App.css": true,
-    "src\\index.js": true,
     "public": true,
     "src\\components\\styles.css": true,
     "node_modules": true,
